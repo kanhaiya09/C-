@@ -1,2 +1,2 @@
-# C-
+# C++
 Basic functions in c++
